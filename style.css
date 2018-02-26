@@ -1,0 +1,284 @@
+body{
+
+
+
+  background-color: #2980b9;
+  color: white;
+
+}
+
+h1{ 
+
+   display:inline;
+   padding:20px;
+}
+
+.foot{
+
+
+
+  background-color : #FFC107;
+
+}
+
+
+
+textarea{
+
+
+
+  height: 200px;
+
+}
+
+
+
+.carousel-inner img{
+
+
+
+      width: 100%;
+
+      height: 600px;
+
+  }
+
+
+
+.navbar-toggle{
+
+
+  margin-top: 40px;
+
+  background-color: #e67e22;
+
+
+}
+
+
+
+ul{
+
+
+
+  list-style-type:none;
+
+
+
+}
+
+
+
+.container{
+
+
+
+  text-align: center;
+
+
+
+
+
+}
+
+
+
+.h1contact{
+
+  padding-top: 50px;
+
+
+  color: white;
+
+
+
+}
+
+
+
+@media (max-width: 768px){ 
+
+  #backgroundcontact{
+
+    width: 100%;
+
+    height: 500px;
+
+    background-image: url('img/img1.jpg');
+
+    background-size: 100% 100%;
+    font-family: roboto;
+
+  }
+
+
+
+  .h1contact{
+
+    padding-top: 125px;
+
+  }
+
+  .carousel-caption{
+
+
+
+  padding-bottom: 50px;
+
+}
+
+
+
+ }
+
+
+
+
+
+@media (min-width: 768px) { 
+
+  #backgroundcontact{
+
+    width: 100%;
+
+    height: 500px;
+
+    background-image: url('img/img1.jpg');
+
+    background-size: 100% 100%;
+
+    font-family: open sans;
+
+  }
+
+
+
+  .h1contact{
+
+    padding-top: 125px;
+
+  }
+
+  
+
+  .carousel-caption{
+
+
+
+  padding-bottom: 150px;
+
+}
+
+
+
+
+
+}
+
+
+
+@media (min-width: 992px) { 
+
+  #backgroundcontact{
+
+    width: 100%;
+
+    height: 800px;
+
+    background-image: url('img/img1.jpg');
+
+    background-size: 100% 100%;
+    font-family: arial;
+
+  }
+  p
+  {
+  padding-top: 100px;
+  }
+
+
+  .h1contact{
+
+    padding-top: 225px;
+
+  }
+
+   
+
+
+  .carousel-caption{
+
+
+
+  padding-bottom: 200px;
+
+}
+
+
+
+
+
+}
+
+
+
+@media (min-width: 1200px) { 
+
+
+
+  #backgroundcontact{
+
+    width: 100%;
+
+    height: 1150px;
+
+    background-image: url('img/img1.jpg');
+
+    background-size: 100% 100%;
+    font-family: arial;
+
+  } 
+
+  .textfeat
+  {
+  padding-top: 100px;
+
+  }
+
+
+
+  .h1contact{
+
+    padding-top: 350px;
+
+
+  }
+
+
+  .carousel-caption{
+
+
+
+  padding-bottom: 200px;
+
+}
+
+
+
+
+}
+
+.box
+{
+  padding-top: 10px;
+
+}
+
+.newsletters
+{
+  margin-top: 25px;
+  width: auto;
+  height: 150px;
+ 
+}
+
